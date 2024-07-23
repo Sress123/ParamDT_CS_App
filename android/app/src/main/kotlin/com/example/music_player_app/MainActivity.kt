@@ -1,4 +1,4 @@
-package com.example.music_player_app
+package com.paramdt.nscf
 
 import io.flutter.embedding.android.FlutterActivity
 
